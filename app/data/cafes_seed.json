@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "name": "Man Versus Machine Coffee Roasters",
+    "neighborhood": "Isarvorstadt",
+    "address": "Müllerstr. 23, 80469 München",
+    "google_maps_url": "https://maps.google.com/?q=Man+Versus+Machine+Coffee+Roasters+Munich",
+    "instagram": "https://www.instagram.com/manversusmachinecoffee",
+    "website": "https://www.manversusmachine.net",
+
+    "roast_profile": {
+      "value": ["light", "medium-light"],
+      "confidence": "high",
+      "evidence": "Known for Nordic-style light roasting, develops each roast profile to work for both espresso and filter. Works with Nordic Approach for green beans."
+    },
+
+    "brewing_methods": {
+      "value": ["espresso", "V60", "aeropress", "syphon", "kalita"],
+      "confidence": "high",
+      "evidence": "Multiple filter options explicitly listed — V60, Aeropress, Syphon, Kalita. No Latte Macchiato ever."
+    },
+
+    "flavour_notes": {
+      "value": ["complex", "bright", "clean"],
+      "confidence": "medium",
+      "evidence": "Inferred from light roast philosophy and Nordic Approach sourcing. No explicit flavour descriptors published."
+    },
+
+    "bean_origin_style": {
+      "value": "single origin, rotating, own roastery",
+      "confidence": "high",
+      "evidence": "Roasts on site. Usually 4-5 different beans. Develops separate roast profiles per bean."
+    },
+
+    "wave": "third-wave",
+    "character": ["third-wave serious"],
+
+    "vibe": {
+      "value": "Serious and uncompromising. Minimal interior. No Latte Macchiato — ever. Quiet on weekday mornings. Standing bar downstairs. A place for people who come specifically for the coffee, not the ambience.",
+      "confidence": "high",
+      "evidence": "Personal knowledge + multiple sources confirm the no-frills, coffee-first philosophy"
+    },
+
+    "wifi": {
+      "value": false,
+      "confidence": "high",
+      "evidence": "No wifi — consistent with their serious coffee-first positioning"
+    },
+
+    "good_for_working": false,
+    "pet_friendly": false,
+
+    "your_notes": "One of Munich's most respected specialty roasters. Founded by Marko and Conny. The menu is intentionally short — order an espresso, flat white, or filter. Nothing else exists here. Staff knows exactly what they're doing.",
+
+    "embed_text": "Man Versus Machine Coffee Roasters is one of Munich's most serious and respected specialty coffee destinations, located in Isarvorstadt. They roast their own beans on site, developing individual roast profiles for each coffee that work for both espresso and filter. Roast style is light to medium-light, sourcing through Nordic Approach for exceptional green bean quality. Brewing methods include espresso, V60, Aeropress, Syphon, and Kalita. The coffee is bright, complex, and clean. The space is minimal and uncompromising — no Latte Macchiato, no flavoured syrups, no distractions. Quiet on weekday mornings. A standing bar downstairs. This is a place for people who take coffee very seriously.",
+
+    "data_complete": true,
+    "needs_visit": false
+  },
+
+  {
+    "id": 2,
+    "name": "Suuapinga",
+    "neighborhood": "Schwabing / multiple locations",
+    "address": "Herzogstr. 85, 80796 München (flagship)",
+    "google_maps_url": "https://maps.google.com/?q=Suuapinga+Munich",
+    "instagram": "https://www.instagram.com/suuapinga",
+    "website": "https://suuapinga.com",
+
+    "roast_profile": {
+      "value": ["light"],
+      "confidence": "high",
+      "evidence": "Star product uses lightly roasted Arabica beans. Own roastery with small-batch roasting focus. Espresso blends described as clean with vibrant acidity — hallmarks of light roast."
+    },
+
+    "brewing_methods": {
+      "value": ["espresso", "filter", "batch brew", "pour over"],
+      "confidence": "high",
+      "evidence": "Explicitly noted for special care with filter coffee — rare even among specialty cafes. Always at least one or two batch brews available. Ethiopia single origin frequently featured."
+    },
+
+    "flavour_notes": {
+      "value": ["stone fruit", "floral", "vibrant acidity", "clean"],
+      "confidence": "high",
+      "evidence": "Espresso blends described as clean with washed process and vibrant acidity. Notes of stone fruit, cocoa, or florals. Ethiopia single origin is a favourite."
+    },
+
+    "bean_origin_style": {
+      "value": "single origin rotating + house blend, own roastery",
+      "confidence": "high",
+      "evidence": "Own roastery on Müllerstrasse. Small-batch roasting with trusted producers. Rotating single origins alongside a well-balanced blend."
+    },
+
+    "wave": "third-wave",
+    "character": ["nordic", "specialty-accessible", "community"],
+
+    "vibe": {
+      "value": "Minimalist Scandinavian aesthetic. Reduced menu — just coffee and handmade vegan pastries (cinnamon and cardamom buns). Community feel, neighbourhood cafe energy. Glockenbach location has outdoor bench seating and a relaxed collective atmosphere. Multiple locations across Munich.",
+      "confidence": "high",
+      "evidence": "Multiple sources + own website confirms the minimalist, community-focused approach"
+    },
+
+    "wifi": {
+      "value": false,
+      "confidence": "medium",
+      "evidence": "Not mentioned — likely no wifi given the standing-bar, quick-visit format"
+    },
+
+    "good_for_working": false,
+    "pet_friendly": false,
+
+    "your_notes": "Named after the year 782 mention of Schwabing as Suuapinga. Founded by three Munich friends. Barista courses offered on weekends. The Glockenbach location is the most loved — outdoor bench, community atmosphere. Their decaf is reportedly excellent.",
+
+    "embed_text": "Suuapinga is a beloved Munich specialty coffee chain with six locations, rooted in the Schwabing neighbourhood. They run their own small-batch roastery on Müllerstrasse, focusing on light roasts with clean, vibrant acidity and stone fruit or floral notes. Filter coffee gets serious attention here — always batch brew available, often Ethiopia single origin. The aesthetic is minimalist Scandinavian — reduced menu, no frills, just exceptional coffee and handmade vegan cinnamon and cardamom buns. Community-focused and welcoming, not intimidating. The Glockenbach location has a relaxed outdoor bench setup with a collective, neighbourhood feel. Barista courses available for home brewers.",
+
+    "data_complete": true,
+    "needs_visit": false
+  },
+
+  {
+    "id": 3,
+    "name": "The Barn",
+    "neighborhood": "Altstadt / Glockenbachviertel",
+    "address": "Tal 15, 80331 München (Altstadt location)",
+    "google_maps_url": "https://maps.google.com/?q=The+Barn+Munich+Tal",
+    "instagram": "https://www.instagram.com/the.barn.coffee",
+    "website": "https://thebarn.de",
+
+    "roast_profile": {
+      "value": ["light"],
+      "confidence": "high",
+      "evidence": "Direct quote from their website: 'Our roast style is light.' Policy: roast only to bring out all taste properties. Light roasting exclusively across all single origin coffees."
+    },
+
+    "brewing_methods": {
+      "value": ["espresso", "filter", "pour over"],
+      "confidence": "high",
+      "evidence": "Dedicated brew bar. Flat whites, hand-brewed filter coffee. Signature is hand-brewed coffee served black. Wide range of pour-over methods."
+    },
+
+    "flavour_notes": {
+      "value": ["terroir", "complex", "fruity", "exotic", "balanced"],
+      "confidence": "high",
+      "evidence": "Three taste categories: Balanced, Terroir, and Exotic. All single origin — terroir-driven flavour profiles. Coffees scoring 86+ on SCA scale."
+    },
+
+    "bean_origin_style": {
+      "value": "single origin only, direct farm sourcing, roasted in Berlin",
+      "confidence": "high",
+      "evidence": "Roastery policy: single origin Arabica only, minimum 86 SCA score. Direct farm collaboration. Roasted in Berlin, served in Munich."
+    },
+
+    "wave": "third-wave",
+    "character": ["third-wave serious", "internationally-renowned"],
+
+    "vibe": {
+      "value": "Small space miracle — only 17 seats, doubles in summer with outdoor area. Raw oak and industrial stools. Warm colour concept. Minimalist and focused. Near Viktualienmarkt and Marienplatz. Regular coffee tastings and expert discussions. Roaster of the Year (Crema Magazine).",
+      "confidence": "high",
+      "evidence": "Their own website describes the space and philosophy in detail"
+    },
+
+    "wifi": {
+      "value": false,
+      "confidence": "medium",
+      "evidence": "Not mentioned — consistent with their focused, minimal approach"
+    },
+
+    "good_for_working": false,
+    "pet_friendly": false,
+
+    "your_notes": "Europe's most decorated specialty roaster — Roaster of the Year. Founded in Berlin in 2010 by Ralf Rüller. The Munich cafe does not roast on site (Berlin roastery ships down). Very small space — 17 seats — but the coffee quality is unmatched in Munich. Collaborated with Wes Anderson in 2024.",
+
+    "embed_text": "The Barn is one of Europe's most celebrated specialty coffee roasters, with a cafe in Munich's historic Altstadt near Marienplatz. Their roast style is exclusively light — stated directly on their website — focusing on single origin Arabica beans scoring 86 or above on the SCA scale. Every coffee is sourced through direct farm collaboration, delivering terroir-driven, complex, and sometimes exotic flavour profiles across three categories: Balanced, Terroir, and Exotic. The Munich cafe is a small, intimate space — just 17 seats — with raw oak interiors and a dedicated brew bar for hand-brewed filter coffee. Awarded Roaster of the Year by Crema Magazine. A pilgrimage destination for serious coffee lovers.",
+
+    "data_complete": true,
+    "needs_visit": false
+  },
+
+  {
+    "id": 4,
+    "name": "Café Blá",
+    "neighborhood": "Au-Haidhausen",
+    "address": "Lilienstr. 34, 81669 München",
+    "google_maps_url": "https://maps.google.com/?q=Café+Blá+Munich",
+    "instagram": "https://www.instagram.com/cafeblamunich",
+    "website": "https://cafebla.de",
+
+    "roast_profile": {
+      "value": ["light"],
+      "confidence": "high",
+      "evidence": "Direct from their website: 'Our focus is on light filter coffee and espresso roasts, where the emphasis is on fruity flavours with a balanced acidity.' Cannot be clearer."
+    },
+
+    "brewing_methods": {
+      "value": ["espresso", "V60", "filter", "pour over"],
+      "confidence": "high",
+      "evidence": "Explicitly focus on both filter and espresso. V60 mentioned in reviews. Small batch roasted in Giesen WA15 drum roaster on site."
+    },
+
+    "flavour_notes": {
+      "value": ["fruity", "floral", "balanced acidity", "bright"],
+      "confidence": "high",
+      "evidence": "Own website: emphasis on fruity flavours with balanced acidity. Consistent with their light roast philosophy and Nordic coffee culture roots."
+    },
+
+    "bean_origin_style": {
+      "value": "single origin, own roastery, small batch, direct sourcing",
+      "confidence": "high",
+      "evidence": "Jacob (co-owner and head roaster) roasts personally. Small batch in Giesen WA15. Transparency focus — sources published on website."
+    },
+
+    "wave": "third-wave",
+    "character": ["nordic", "third-wave serious", "owner-roasted"],
+
+    "vibe": {
+      "value": "Nordic calm and simplicity near the Isar river. Pet friendly outdoor terrace. Cosy and unhurried. No laptop policy on Sundays — protecting the weekend experience. Open every day including public holidays (except Christmas and New Year). Brunch on weekends. Icelandic-founded, warm community feel.",
+      "confidence": "high",
+      "evidence": "Own website + multiple reviews confirm the nordic calm, pet-friendly terrace, and no-laptop-Sunday policy"
+    },
+
+    "wifi": {
+      "value": true,
+      "confidence": "medium",
+      "evidence": "Laptop use mentioned in reviews on weekdays — implies wifi exists. No Sunday laptops policy suggests wifi but restricted by social norm."
+    },
+
+    "good_for_working": true,
+    "pet_friendly": true,
+
+    "your_notes": "Founded by Jacob (Icelandic) who roasts all beans himself on a Giesen WA15. Close to Deutsches Museum and the Isar. The no-laptop Sunday policy is a deliberate choice — worth mentioning to users who want to work. Pet-friendly outdoor terrace is a real differentiator in Munich. Beetroot ginger cake is notable.",
+
+    "embed_text": "Café Blá is a Nordic-inspired specialty coffee shop in Munich's Au-Haidhausen neighbourhood, just a short walk from the Isar river and Deutsches Museum. Founded by an Icelandic co-owner who personally roasts all beans on a Giesen WA15 drum roaster in small batches. Their focus is explicitly on light roast filter coffee and espresso with fruity flavours and balanced acidity. Single origin, directly sourced, fully transparent. The space is calm, minimal, and welcoming — a pet-friendly outdoor terrace, good for working on weekdays, no laptop policy on Sundays. Open daily including public holidays. Weekend brunch available. One of Munich's most consistently excellent neighbourhood coffee shops.",
+
+    "data_complete": true,
+    "needs_visit": false
+  },
+
+  {
+    "id": 5,
+    "name": "Fausto Kaffeeroesterei",
+    "neighborhood": "Giesing",
+    "address": "Regerstr. 4, 81541 München",
+    "google_maps_url": "https://maps.google.com/?q=Fausto+Kaffeeroesterei+Munich",
+    "instagram": "https://www.instagram.com/faustokaffee",
+    "website": "https://www.fausto.de",
+
+    "roast_profile": {
+      "value": ["medium", "dark", "light"],
+      "confidence": "medium",
+      "evidence": "Inferred from product range — 15 varieties including India Monsooned Malabar (typically medium-dark). High volume roastery (300t/yr) suggests wide range. No explicit roast level stated anywhere."
+    },
+
+    "brewing_methods": {
+      "value": ["espresso", "filter", "various"],
+      "confidence": "medium",
+      "evidence": "Cafe format with self-service. Wide variety of coffee drinks. Specific filter methods not explicitly listed."
+    },
+
+    "flavour_notes": {
+      "value": ["varied", "rich", "bold"],
+      "confidence": "low",
+      "evidence": "No specific flavour descriptors found. Wide product range suggests varied profiles. Monsooned Malabar implies earthy, full-bodied options available."
+    },
+
+    "bean_origin_style": {
+      "value": "multiple origins, named by country, own roastery",
+      "confidence": "high",
+      "evidence": "Coffees named by country of origin. 15+ varieties. Own roastery run by Klaus Wildmoser personally."
+    },
+
+    "wave": "second-to-third-wave",
+    "character": ["local-institution", "wide-range", "accessible"],
+
+    "vibe": {
+      "value": "Largest independent roastery in Munich — been here for 15+ years. Self-service cafe beside the Auer Mühlbach river in Giesing. Beautiful terrace by the water. Less of a specialty destination, more of a Munich institution. Relaxed, unpretentious. You can smell the roasting.",
+      "confidence": "high",
+      "evidence": "Multiple sources confirm the riverside location, self-service format, and local institution status"
+    },
+
+    "wifi": {
+      "value": false,
+      "confidence": "low",
+      "evidence": "Not mentioned anywhere — self-service format suggests no dedicated workspace"
+    },
+
+    "good_for_working": false,
+    "pet_friendly": true,
+
+    "your_notes": "Klaus Wildmoser roasts everything himself. 15+ years, 300 tonnes per year — Munich's largest independent roastery. The terrace by the Auer Mühlbach is genuinely beautiful in summer. Wide range means something for everyone — not just light roast specialists. Barista training and latte art courses available. A very different character from the other cafes — more local institution than specialty destination.",
+
+    "embed_text": "Fausto Kaffeeroesterei is Munich's largest independent coffee roastery, run by Klaus Wildmoser who has been roasting personally for over 15 years in the Giesing neighbourhood. With around 15 different coffee varieties and 300 tonnes roasted per year, Fausto offers the widest range of any cafe in this collection — from light single origins to dark blends and the popular India Monsooned Malabar. Self-service cafe with a beautiful terrace beside the Auer Mühlbach river. More of a beloved Munich institution than a third-wave specialist. Relaxed and unpretentious, accessible to all coffee drinkers. Barista and latte art courses available. Perfect for a relaxed outdoor coffee by the water in Giesing.",
+
+    "data_complete": false,
+    "needs_visit": true
+  },
+
+  {
+    "id": 6,
+    "name": "Humpback Whale Specialty Coffee",
+    "neighborhood": "Maxvorstadt",
+    "address": "Türkenstr. 84a, Amalienpassage, 80799 München",
+    "google_maps_url": "https://maps.google.com/?q=Humpback+Whale+Specialty+Coffee+Munich",
+    "instagram": "https://www.instagram.com/humpbackwhalecoffee",
+    "website": "https://humpbackwhalecoffee.com",
+
+    "roast_profile": {
+      "value": ["light", "medium-light"],
+      "confidence": "medium",
+      "evidence": "Single origin beans from carefully selected European roasteries — almost certainly light roast territory. R.D. Coffee Roasters (their supplier) is known for specialty-grade light roasts. No explicit roast level stated on website."
+    },
+
+    "brewing_methods": {
+      "value": ["espresso", "filter", "aeropress"],
+      "confidence": "medium",
+      "evidence": "German Cup Tasters Champion owner — implies multi-method capability. Flat whites mentioned. Specific methods not fully listed online."
+    },
+
+    "flavour_notes": {
+      "value": ["clean", "balanced", "complex"],
+      "confidence": "medium",
+      "evidence": "Inferred from champion-level coffee sensibility and single origin sourcing from trusted European roasteries. No explicit flavour descriptors published."
+    },
+
+    "bean_origin_style": {
+      "value": "single origin, curated from favourite European roasteries",
+      "confidence": "high",
+      "evidence": "Own website: 'single origin beans we love, roasted by our favourite roasteries across Europe.' R.D. Coffee Roasters confirmed as primary supplier."
+    },
+
+    "wave": "third-wave",
+    "character": ["champion-led", "specialty-accessible", "intimate", "personal"],
+
+    "vibe": {
+      "value": "Hidden courtyard in Maxvorstadt's historic Amalienpassage — a quiet pocket of calm dating back to the early 20th century. Almost everything handmade by founder Lucy. Feels like someone's cosy home kitchen, not a business. Handmade ceramics. No wifi. Warm and personal — Lucy won the 2025 German Cup Tasters Championship. Matcha also available.",
+      "confidence": "high",
+      "evidence": "Own website + European Coffee Trip barista profile describes the space and founder story in detail"
+    },
+
+    "wifi": {
+      "value": false,
+      "confidence": "high",
+      "evidence": "Explicitly stated: no wifi. 'Perfect for relaxing with a book or having conversations.'"
+    },
+
+    "good_for_working": false,
+    "pet_friendly": false,
+
+    "your_notes": "Founded by Lucy Huong Quach — 2025 German Cup Tasters Champion. Previously competed in Vietnam AeroPress and Barista Championships. The cafe is genuinely handmade — ceramics, decor, everything. Hidden in the Amalienpassage, easy to miss. Deep blue whale-themed design. The most personal and intimate cafe in this collection.",
+
+    "embed_text": "Humpback Whale Specialty Coffee is one of Munich's most intimate and personal specialty cafes, tucked inside the historic Amalienpassage in Maxvorstadt — a quiet, colourful 20th century arcade off Türkenstrasse. Founded by Lucy Huong Quach, the 2025 German Cup Tasters Champion, the cafe is a reflection of her journey — almost everything inside is handmade, including the ceramics. Coffee is made from single origin beans sourced from carefully selected European roasteries, served with the precision of a competition-level barista. No wifi — designed for slow sips, conversations, and books. Warm, cosy, and completely personal. The opposite of a corporate coffee chain. Also serves high-quality matcha.",
+
+    "data_complete": false,
+    "needs_visit": true
+  },
+
+  {
+    "id": 7,
+    "name": "ALRIGHTY Roastery & Coffee Shop",
+    "neighborhood": "Werksviertel",
+    "address": "Speicherstr. 28, 81671 München",
+    "google_maps_url": "https://maps.google.com/?q=ALRIGHTY+Roastery+Coffee+Shop+Munich",
+    "instagram": "https://www.instagram.com/alrighty.coffee",
+    "website": "https://alrighty.coffee",
+
+    "roast_profile": {
+      "value": ["medium", "light"],
+      "confidence": "medium",
+      "evidence": "Espresso described as 'Karamell, Kakao, Schokolade' — medium roast characteristics. Filter range likely lighter. Four house blends cover espresso, filter, crema, and decaf — different roast levels implied per method."
+    },
+
+    "brewing_methods": {
+      "value": ["espresso", "filter", "crema", "various"],
+      "confidence": "high",
+      "evidence": "Own website lists: espresso, filter, crema, decaf ranges. Seasonal drinks and creative lattes also available."
+    },
+
+    "flavour_notes": {
+      "value": ["caramel", "cocoa", "chocolate", "complex"],
+      "confidence": "high",
+      "evidence": "Direct from product listing: espresso described as 'Karamell, Kakao, Schokolade' — caramel, cocoa, chocolate notes."
+    },
+
+    "bean_origin_style": {
+      "value": "single origin project coffees + house blends, own roastery, 100% Underdog Farmers",
+      "confidence": "high",
+      "evidence": "Own website: four house blends plus rotating single origin project coffees. All sourced from young, female, or African farmers — their Caretrade philosophy."
+    },
+
+    "wave": "fourth-wave",
+    "character": ["mission-driven", "industrial", "accessible", "sustainable"],
+
+    "vibe": {
+      "value": "500 sqm industrial roastery in Munich's creative Werksviertel district near Ostbahnhof. You can watch the roasting happen live. Electric roasters powered by green electricity. Spacious and modern with industrial chic decor. Laptop friendly — good for working. Can get noisy when machines run. Roastery tours and barista courses available. Sustainability is core — 100% climate compensated, Jane Goodall partnership.",
+      "confidence": "high",
+      "evidence": "Own website + multiple reviews confirm the Werksviertel location, industrial design, and sustainability mission"
+    },
+
+    "wifi": {
+      "value": true,
+      "confidence": "high",
+      "evidence": "Multiple reviews explicitly mention working on laptops. 'Plenty of space for customers to work or use laptops comfortably.'"
+    },
+
+    "good_for_working": true,
+    "pet_friendly": false,
+
+    "your_notes": "Founded by Daniel Rizzotti, Volker Meyer-Lücke, and Sebastian Kroth — 30+ years combined coffee industry experience. Manuel Neuer is a shareholder. 500 sqm roastery with three electric roasters. Caretrade philosophy: all beans from young, female, or African farmers. Supports Jane Goodall's Roots & Shoots projects. Available at Rossmann, BMW Welt, Bayerische Staatsoper, and Gut Kaltenbrunn.",
+
+    "embed_text": "ALRIGHTY Roastery & Coffee Shop is Munich's most mission-driven specialty coffee destination, located in the creative Werksviertel district near Ostbahnhof. Their 500 sqm roastery uses electric roasters powered by green electricity, and you can watch the roasting process live during your visit. Coffee is sourced exclusively from Underdog Farmers — young, female, or African smallholders — through their Caretrade philosophy. Espresso blends offer caramel, cocoa, and chocolate notes. Separate filter range available, likely lighter roast. Spacious, industrial-chic interior with plenty of space for laptops and working. Roastery tours, barista courses, and seasonal creative drinks. For coffee lovers who care about where their coffee comes from and its impact on the world.",
+
+    "data_complete": true,
+    "needs_visit": false
+  }
+]
