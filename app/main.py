@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from contextlib import asynccontextmanager
 
+from app.api.chat import router as chat_router
 from app.core.database import test_connection
 
 
@@ -16,6 +17,8 @@ app = FastAPI(
     version="0.1.0",
     lifespan=lifespan,
 )
+
+app.include_router(chat_router)
 
 
 @app.get("/")
